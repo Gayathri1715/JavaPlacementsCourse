@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Recursion",
+        "Maths/Sieve of Eratosthenes",
+        "Frameworks/Collection",
+        "BitManipulation",
+        "Frameworks/Map"
+    ]
+}

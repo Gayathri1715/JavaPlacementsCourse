@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BitManipulation"/>
+	<classpathentry kind="src" path="Frameworks/Collection"/>
+	<classpathentry kind="src" path="Frameworks/Map"/>
+	<classpathentry kind="src" path="Maths/Modulo Arithmetics"/>
+	<classpathentry kind="src" path="Maths/Sieve of Eratosthenes"/>
+	<classpathentry kind="src" path="Recursion"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
